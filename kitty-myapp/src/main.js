@@ -4,9 +4,9 @@ import router from 'vue-router'
 
 Vue.config.productionTip = false
 
-new Vue({
-  el:'#app',
+export default new Vue({
+  el: '#app',
   router,
-  coomponents:{App},
+  coomponents: { App }
 
 })

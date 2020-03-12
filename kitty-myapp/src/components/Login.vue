@@ -19,17 +19,17 @@
 
 <script>
 export default {
-    name: 'login',
-    data(){
-        return {
-            userName:'',
-            passWord:''
-        }
-    },
-    methods:{
-        submit(){
-
-        }
+  name: 'login',
+  data () {
+    return {
+      userName: '',
+      passWord: ''
     }
+  },
+  methods: {
+    submit () {
+
+    }
+  }
 }
 </script>
